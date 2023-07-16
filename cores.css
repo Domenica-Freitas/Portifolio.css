@@ -1,0 +1,21 @@
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #bc18b1
+}
+
+
+
+.corPrimaria {
+    background-color: #bc18b1;
+
+}
+
+.corsecundaria {
+    background-color: #2c3e50;
+}
+    
